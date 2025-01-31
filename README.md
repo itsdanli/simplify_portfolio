@@ -52,6 +52,56 @@ The table below provides a **high-level overview** of the ETFs, their investment
 | GAEM        | Gamma Emerging Market Bond ETF                | Emerging Market Bonds         | 0.76%         |
 
 ---
+## **Traditional Portfolio Constructions**
+Before constructing a portfolio using **Simplify ETFs**, we will analyze and compare traditional portfolio models. These models serve as benchmarks and starting points for portfolio design:
+
+1. **60/40 Portfolio (Stocks/Bonds)**
+   - **Overview**: A classic balanced portfolio with 60% equities and 40% fixed income.
+   - **Pros**: Moderate risk, historically stable returns, reduces volatility.
+   - **Cons**: Limited adaptability, potential underperformance in low-yield environments.
+
+2. **Risk Parity Portfolio**
+   - **Overview**: Allocates capital based on risk contribution rather than percentage weighting.
+   - **Pros**: Diversifies across asset classes, lowers volatility.
+   - **Cons**: Complex implementation, heavy reliance on leverage.
+
+3. **All-Weather Portfolio (Ray Dalio)**
+   - **Overview**: Designed to perform well across different economic cycles.
+   - **Allocation**:
+     - 30% Stocks
+     - 40% Long-Term Bonds
+     - 15% Intermediate Bonds
+     - 7.5% Gold
+     - 7.5% Commodities
+   - **Pros**: Stability across market conditions, low drawdowns.
+   - **Cons**: Lower upside potential, heavy bond allocation.
+
+4. **Permanent Portfolio**
+   - **Overview**: A simple, equal-weighted allocation across major asset classes.
+   - **Allocation**:
+     - 25% Stocks
+     - 25% Bonds
+     - 25% Gold
+     - 25% Cash
+   - **Pros**: Designed for resilience, steady returns.
+   - **Cons**: Can underperform during economic booms.
+
+5. **Endowment Model (Yale Model)**
+   - **Overview**: Inspired by institutional investing with a focus on alternatives.
+   - **Allocation**:
+     - 30% Equities
+     - 20% Bonds
+     - 20% Private Equity
+     - 20% Real Assets
+     - 10% Hedge Funds
+   - **Pros**: Long-term growth potential, diversified.
+   - **Cons**: Illiquid investments, high complexity.
+
+6. **Barbell Strategy**
+   - **Overview**: Invests heavily in both high-risk and ultra-low-risk assets.
+   - **Pros**: Mitigates downside risk while preserving upside.
+   - **Cons**: Can be volatile, requires active management.
+___
 
 ## **Next Steps**
 - **Portfolio Optimization**: Identify risk-return tradeoffs and weightings for an optimal allocation.
