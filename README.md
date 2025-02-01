@@ -11,7 +11,6 @@ This project aims to build an **optimal investment portfolio** exclusively using
 ---
 
 ## **Simplify ETF Summary**
-The table below provides a **high-level overview** of the ETFs, their investment focus, and associated expenses.
 
 | **ETF Ticker** | **ETF Name**                                      | **Investment Focus**                   | **Expense Ratio** |
 |--------------|------------------------------------------------|--------------------------------|---------------|
